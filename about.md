@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: A propos
 permalink: /about/
 ---
 
-Some information about you!
+Je m'appelle Alexandre, j'ai 22 ans et je suis développeur Java en alternance à Lyon
 
-### More Information
+### Plus d'informations
 
-A place to include any other types of information that you'd like to include about yourself.
+J'étudie à Epitech Lyon, en 5ème année du programme Global Tech, j'ai fait un DUT informatique à Grenoble.  
+Je suis actuellement chez Sully Group, en tant que référent technique sur un projet Java, pour le client RTE.
 
-### Contact me
+### Me contacter
 
-[email@domain.com](mailto:email@domain.com)
+[apac.alexcuevas@gmail.com](mailto:apac.alexcuevas@gmail.com)
