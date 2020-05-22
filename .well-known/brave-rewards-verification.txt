@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: theapac.github.io
+Token: 08732b6553a5fa99e0d577f21ab41aaa744799e7bbb6d9a11aa893d66f6ef50f
